@@ -1,0 +1,92 @@
+[
+    {
+      "recipe_id": 1,
+      "recipe_name": "Chicken Stir Fry",
+      "recipe_image": "https://media.istockphoto.com/id/622068426/photo/stir-fry-with-chicken-mushrooms-broccoli-and-peppers.jpg?s=612x612&w=0&k=20&c=u5nlDN-OFrrrOiDxr4EYp5b1L4oUGdEcJdyla1HunAs=",
+      "short_description": "Quick and delicious chicken stir fry with vegetables.",
+      "ingredients": [
+        "550 g chicken breast",
+        "120 ml soy sauce",
+        "200 g basil leaves",
+        "400 g mushrooms"
+      ],
+      "preparing_time": "30 min",
+      "calories": "320 calories"
+    },
+    {
+      "recipe_id": 2,
+      "recipe_name": "Pasta Primavera",
+      "recipe_image": "https://media.istockphoto.com/id/108660552/photo/spring-pasta.jpg?s=612x612&w=0&k=20&c=oC8fyLHfKRXm80scMpo4Lq2J_84-vleg-qKvWAl6mK0=",
+      "short_description": "Fresh pasta with seasonal vegetables in a creamy sauce.",
+      "ingredients": [
+        "300 g pasta",
+        "1 cup cherry tomatoes",
+        "1 zucchini, sliced",
+        "100 g spinach",
+        "200 ml cream"
+      ],
+      "preparing_time": "25 min",
+      "calories": "380 calories"
+    },
+    {
+      "recipe_id": 3,
+      "recipe_name": "Grilled Salmon",
+      "recipe_image": "https://media.istockphoto.com/id/1305251323/photo/fried-salmon-fillet-steaks-on-a-wooden-board-with-thyme-dark-wooden-background-top-view.jpg?s=612x612&w=0&k=20&c=ctBwoVERBWzw-NCtATYT1OUk9uRKzejPXpOLZjeox94=",
+      "short_description": "Healthy grilled salmon with a lemon and herb marinade.",
+      "ingredients": [
+        "4 salmon fillets",
+        "2 lemons, juiced",
+        "50 g fresh dill",
+        "Olive oil",
+        "Salt and pepper"
+      ],
+      "preparing_time": "20 min",
+      "calories": "250 calories"
+    },
+    {
+      "recipe_id": 4,
+      "recipe_name": "Caprese Salad",
+      "recipe_image": "https://media.istockphoto.com/id/1345888788/photo/caprese-salad.jpg?s=612x612&w=0&k=20&c=cvxuF6osxtSktuBP4tsHkb46547-HU9W-K8_rSq5UGY=",
+      "short_description": "Classic Italian salad with fresh tomatoes, mozzarella, and basil.",
+      "ingredients": [
+        "4 tomatoes, sliced",
+        "200 g fresh mozzarella",
+        "Fresh basil leaves",
+        "Balsamic vinegar",
+        "Olive oil"
+      ],
+      "preparing_time": "15 min",
+      "calories": "180 calories"
+    },
+    {
+      "recipe_id": 5,
+      "recipe_name": "Vegetable Curry",
+      "recipe_image": "https://media.istockphoto.com/id/1278584356/photo/veg-kolhapuri-in-black-bowl-on-dark-slate-table-top-indian-vegetable-curry-dish-vegetarian.jpg?s=1024x1024&w=is&k=20&c=bXrMa4Z2wPTtBqOELjExaaTZ6d1zTL-ZYqpmDpDU2RY=",
+      "short_description": "Spicy and aromatic vegetable curry with coconut milk.",
+      "ingredients": [
+        "1 eggplant, cubed",
+        "2 potatoes, diced",
+        "1 cup green peas",
+        "400 ml coconut milk",
+        "Curry powder, to taste"
+      ],
+      "preparing_time": "35 min",
+      "calories": "300 calories"
+    },
+    {
+      "recipe_id": 6,
+      "recipe_name": "banana Bread",
+      "recipe_image": "https://media.istockphoto.com/id/1149086256/photo/freshly-baked-banana-bread.jpg?s=1024x1024&w=is&k=20&c=oyX3f59rFwcai850rfgtIiIezpu8V40UeJ6RiQDOqAc=",
+      "short_description": "Moist and flavorful banana bread, perfect for breakfast or snacks.",
+      "ingredients": [
+        "3 ripe bananas, mashed",
+        "200 g flour",
+        "100 g sugar",
+        "100 g butter, melted",
+        "1 tsp baking soda"
+      ],
+      "preparing_time": "50 min",
+      "calories": "220 calories"
+    }
+  ]
+  
